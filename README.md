@@ -1,3 +1,3 @@
 # storeup
 
-[https://www.cnbeta.com/] 我的网站
+[我的网站](https://www.cnbeta.com/)
